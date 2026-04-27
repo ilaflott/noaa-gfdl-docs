@@ -43,12 +43,13 @@ FRE-based workflows.
     :maxdepth: 2
     :hidden:
 
+    CMOR <https://github.com/PCMDI/cmor>
     fremor <https://noaa-gfdl.readthedocs.io/projects/fremor/>
 
-**************************************
-:external+fre-cli:doc:`fremor <index>`
-**************************************
+*************************************
+:external+fremor:doc:`fremor <index>`
+*************************************
 
 :abbr:`fremor`, :abbr:`fremor` CMORizes FRE data with CMOR. It is a model
 ouput rewriter for contributing to intercomparison projects e.g. CMIP7. 
-It began as a submodule of `FRE CLI`.
+It began as a submodule of `FRE CLI` and needs :abbr:`CMOR` to work.
