@@ -39,3 +39,16 @@ running FMS-based long- and short-term forecast models.  The FRE :abbr:`CLI
 (Command Line Interface)` are the command line tools to create and manage
 FRE-based workflows.
 
+.. toctree::
+    :maxdepth: 2
+    :hidden:
+
+    fremor <https://noaa-gfdl.readthedocs.io/projects/fremor/>
+
+**************************************
+:external+fre-cli:doc:`fremor <index>`
+**************************************
+
+:abbr:`fremor`, :abbr:`fremor` CMORizes FRE data with CMOR. It is a model
+ouput rewriter for contributing to intercomparison projects e.g. CMIP7. 
+It began as a submodule of `FRE CLI`.
